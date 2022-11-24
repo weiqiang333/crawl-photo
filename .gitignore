@@ -16,3 +16,4 @@ vendor/
 
 crawl_photo*
 .idea/
+#data/*
